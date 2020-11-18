@@ -1,10 +1,10 @@
 # Hey There! <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/hi.gif" width="40px"></h2>
 
-#### They told that i can find the source code of 🌏 here, Still didn't find it let me know if you do 🙏🏻.
+#### Everyday trying to Fail BETTER but failing regularly😊
 
-### About Me 🙋🏻‍♂️
+### About Me 👱‍♂️ 
 
-You can call me **Akshit**,
+You can call me **Akshit(ax8_zeus)**,
 I am 19 and a **3rd Year Computer Engineering Student at Charusat University** . 🎓,<br>**Web Team at** for [@AWS-Students'Club](https://github.com/asc-charusat)🤹🏻‍♂️ also a <br>**Full Stack Web Dev Enthusiast** ⚡
 
 
@@ -12,14 +12,14 @@ I am 19 and a **3rd Year Computer Engineering Student at Charusat University** .
 
 [![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/AkshitSoneji)
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/akshit-soneji/)
-[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/asish.io/)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/akshhit_soneji/)
 [![HackerRank Card](https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/hackerrank..png)](https://www.hackerrank.com/18CE124) <br>
 [![Gmail Badge](https://img.shields.io/badge/-sonejiakshit989@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonejiakshit989@gmail.com)](mailto:sonejiakshit989@gmail.com)
 
 ---
 
 <details close>
-<summary><b>Find out what i 💗?</b> <i>(click to expand!)</i></summary>
+<summary><b>Find out what I'm into?</b> <i>(click to expand!)</i></summary>
 
 ### inCoding 👨🏻‍💻
 
@@ -41,8 +41,9 @@ I am 19 and a **3rd Year Computer Engineering Student at Charusat University** .
 <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/c.png"/>
 
 ```
-I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
+Learning under progress. 
 ```
+### inGeneral: 🎮🏸♟🏓🎬
 
 ### Profile Overview 👀
 
