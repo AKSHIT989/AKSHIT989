@@ -1,11 +1,8 @@
-# Hey There! <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/hi.gif" width="40px"></h2>
-
-#### Everyday trying to Fail BETTER but failing regularly😊
+<img src="https://im3.ezgif.com/tmp/ezgif-3-36894313dde7.gif" width="100%"></h2>
 
 ### About Me 👱‍♂️ 
 
-You can call me **Akshit(ax8_zeus)**,
-I am 19 and a **3rd Year Computer Engineering Student at Charusat University** . 🎓,<br>**Web Team at** for [@AWS-Students'Club](https://github.com/asc-charusat)🤹🏻‍♂️ also a <br>**Full Stack Web Dev Enthusiast** ⚡
+I am 19 and a **3rd Year Computer Engineering Student at Charusat University** . 🎓,<br>**Web Team at** [@AWS-Students'Club](https://github.com/asc-charusat)🤹🏻‍♂️ also a <br>**Full Stack Web Dev Enthusiast** ⚡
 
 
 ### Find Me Here 👇🏻
