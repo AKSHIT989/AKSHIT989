@@ -20,20 +20,16 @@ I am 19 and a **3rd Year Computer Engineering Student at Charusat University** .
 
 ### inCoding 👨🏻‍💻
 
-<img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
-<img src="https://img.icons8.com/fluent/28/000000/console.png"/>
-<img src="https://img.icons8.com/color/28/000000/git.png"/>
-<img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/code.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/postman..png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/mongodb.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/firebase.png"/>
 <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/react.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/nodejs.png"/> 
 <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/javascript.png"/> 
 <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/python.png"/>
+<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/nodejs.png"/> 
+<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/mongodb.png"/>
+<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/code.png"/>
+<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/postman..png"/>
+<img src="https://img.icons8.com/color/28/000000/git.png"/>
+<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/firebase.png"/>
 <img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/arduino.png"/>
 <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/c++.png"/>
 <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/c.png"/>
 
