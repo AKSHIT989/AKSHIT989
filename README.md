@@ -1,9 +1,5 @@
 <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/akshitGithub.gif" width="100%"></h2>
-
-### About Me 👱‍♂️ 
-
-I am 19 and a **3rd Year Computer Engineering Student at Charusat University** . 🎓,<br>**Web Team at** [@AWS-Students'Club](https://github.com/asc-charusat)🤹🏻‍♂️ also a <br>**Full Stack Web Dev Enthusiast** ⚡
-
+<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/carbon%20(2).png" width="100%"></h2>
 
 ### Find Me Here 👇🏻
 
@@ -16,27 +12,7 @@ I am 19 and a **3rd Year Computer Engineering Student at Charusat University** .
 ---
 
 <details close>
-<summary><b>Find out what I'm into?</b> <i>(click to expand!)</i></summary>
-
-### inCoding 👨🏻‍💻
-
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/react.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/javascript.png"/> 
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/python.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/nodejs.png"/> 
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/mongodb.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/code.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/postman..png"/>
-<img src="https://img.icons8.com/color/28/000000/git.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/firebase.png"/>
-<img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/c++.png"/>
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/c.png"/>
-
-```
-Learning under progress. 
-```
-### inGeneral: 🎮🏸♟🏓🎬
+<summary><b>My GitHub profile</b> <i>(click to expand!)</i></summary>
 
 ### Profile Overview 👀
 
