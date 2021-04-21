@@ -1,4 +1,4 @@
-<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/akshitGithub.gif" width="100%"></h2>
+<!--<img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/akshitGithub.gif" width="100%"></h2> -->
 <img src="https://github.com/AKSHIT989/AKSHIT989/blob/main/gifs/carbon%20(2).png" width="100%"></h2>
 
 ### Find Me Here 👇🏻
